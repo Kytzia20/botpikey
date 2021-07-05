@@ -1,9 +1,9 @@
-## Instalação do Bot🤖
+## Instalação del Bot🤖
 
 ```
 pkg install git
-git clone https://github.com/KRATOSmdzkk23/Akame-bot
-cd Akame-bot
+git clone https://github.com/Kytzia20/pikeybot
+cd pikeybot
 bash install.sh
 npm i encodeurl
 npm i g-i-s
